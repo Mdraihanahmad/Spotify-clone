@@ -14,21 +14,7 @@ This project is a Spotify clone, aiming to replicate some of the key features an
 
 ## Technologies Used
 
-- **Frontend:**
-  - HTML5
-  - CSS3 (with Flexbox/Grid for layout)
-  - JavaScript (ES6+)
-  - React.js
-  - Redux (for state management)
-  - Axios (for API requests)
-  - Material-UI (for UI components)
-
-- **Backend:**
-  - Node.js
-  - Express.js
-  - MongoDB (or any other database of choice)
-  - JWT (JSON Web Tokens) for authentication
-  - bcrypt (for password hashing)
+- **KOTLIN**
 
 - **APIs:**
   - Spotify Web API (for fetching music data)
